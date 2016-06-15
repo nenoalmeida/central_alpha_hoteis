@@ -4,7 +4,12 @@ class HotelsController < ApplicationController
   # GET /hotels
   # GET /hotels.json
   def index
+    if params[:search]
+    @hotels = Hotel.where("name like ?", "%#{params[:search]}")
+    else
     @hotels = Hotel.all
+  end
+
   end
 
   # GET /hotels/1
