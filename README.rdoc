@@ -2,4 +2,4 @@
 
 == Central Alpha Hoteis
 
-software simples para mostrar como funciona um sistema de gerenciamento de hoteis.
+Software simples para mostrar como funciona um sistema de gerenciamento de hoteis.
