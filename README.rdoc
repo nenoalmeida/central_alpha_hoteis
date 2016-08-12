@@ -4,4 +4,8 @@
 
 Software simples para mostrar como funciona um sistema de gerenciamento de hoteis.
 
-Alpha hoteis vai gerencias coisas como vagas dos quartos, 
+Alpha hoteis vai gerencias coisas como vagas dos quartos
+
+Ruby version
+
+
