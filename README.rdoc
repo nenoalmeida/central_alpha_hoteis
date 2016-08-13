@@ -8,4 +8,10 @@ Alpha hoteis vai gerencias coisas como vagas dos quartos
 
 Ruby version
 
+Rails Version
+
+Test
+
+
+
 
